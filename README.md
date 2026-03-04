@@ -1,6 +1,6 @@
 # Project Management Dashboard - PowerBI
 
-![Dashboard Page 1](/images/Image%201.JPG)
+![Dashboard Page 1](./images/Image%201.JPG)
 
 ## Introduction
 
