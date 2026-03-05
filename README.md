@@ -1,6 +1,6 @@
 # Project Management Dashboard - PowerBI
 
-![Dashboard Page 1](/images/Image%201.jpg)
+![Dashboard Page 1](/Images/Image%201.JPG)
 
 ## Introduction
 
@@ -72,7 +72,7 @@ Instead of overwhelming users with all metrics at once, the experience flows int
 The interactive navigation buttons (custom-designed and icon-based) allow users to move seamlessly between sections, creating an intuitive, application-like experience rather than a static BI report.
 
 ### Page 1: Projects Summary: Understanding the Portfolio at a Glance
-![Dashboard Page 1](/images/Image%201.jpg)
+![Dashboard Page 1](/Images/Image%201.JPG)
 
 The Projects Summary page serves as the executive command center. It is designed for stakeholders who need clarity within seconds.
 
@@ -90,7 +90,7 @@ Carefully structured KPI cards provide immediate visibility into overall perform
 
 
 ### Page 2: Project Timeline: Where Time Tells the Truth
-![Dashboard Page 2](/images/Image%202.jpg)
+![Dashboard Page 2](/Images/Image%202.JPG)
 
 If the summary page shows what is happening, the timeline page reveals when and how efficiently it is happening.
 
@@ -118,7 +118,7 @@ This page helps shift conversations from reactive to proactive, making risks bec
 
 
 ### Page 3: Project Details – From Overview to Investigation
-![Dashboard Page 3](/images/Image%203.jpg)
+![Dashboard Page 3](/Images/Image%203.JPG)
 
 Once a trend or concern is identified, users can navigate to the Project Details page for deeper exploration.
 
